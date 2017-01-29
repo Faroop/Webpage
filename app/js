@@ -13,6 +13,6 @@ $(document).ready(function() {
     }
   }).trigger("resize"); //this to force first event on load
 
-//more events here
+//comment, more events can come here
 
 });
